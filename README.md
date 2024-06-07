@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @C4SS1n0
+- 👀 I’m interested in Software development, security, AI
+- 🌱 I’m currently learning Back-End
+- 💞️ I’m looking to collaborate on app projects, ias and page creation
+- 📫 How to reach me - ochoacassian@gmail.com
+- 😄 Pronouns: He /They
+- ⚡ Fun fact: A moth created the term "bug"
